@@ -3,5 +3,4 @@
 Jonathan Nunez
 
 
-Database Source: [IMDb](https://www.imdb.com/)
-Dataset Used: [TMDB](https://www.themoviedb.org/)
+Database Sources: [IMDb](https://www.imdb.com/) and [TMDB](https://www.themoviedb.org/)
